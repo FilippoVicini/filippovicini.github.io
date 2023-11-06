@@ -1,8 +1,10 @@
 ---
 title: "Racoon Mobile App"
-excerpt: "Creating a smartphone app to help people live more affordable and sustainable lifestyles was a lot of fun for me. To construct this amazing application, we used Swift, the go-to language for iPhone app development, and MongoDB, an incredibly reliable database. This software isn't only for tech, though. It's about making a big difference. <br/> Our mission is to provide individuals with the information and tools necessary to make better decisions every day.  Through my integration of Mapbox and OpenStreetMaps, users can now effortlessly interact with the nearby amenities. "
+excerpt: "Mobile app to help people live more affordable and sustainable lifestyles. "
 collection: portfolio
 ---
+Mobile app to help people live more affordable and sustainable lifestyles. was a lot of fun for me. To construct this amazing application, we used Swift, the go-to language for iPhone app development, and MongoDB, an incredibly reliable database. This software isn't only for tech, though. It's about making a big difference. <br/> Our mission is to provide individuals with the information and tools necessary to make better decisions every day.  Through my integration of Mapbox and OpenStreetMaps, users can now effortlessly interact with the nearby amenities.
+
 <a href="https://www.racoonapp.com/" target="_blank">
   <button>Racoonapp.com </button> 
 </a>
