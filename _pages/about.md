@@ -16,3 +16,8 @@ I love being outside in nature and I'm a huge sports enthusiast. I enjoy going o
 
 I have always enjoyed working on side projects when I was occupied with my studies. I made a simple personal website where I may showcase my work .
 
+## In this website you can find...
+- My projects 
+- Blog posts and discussions
+- My academic papers 
+- resumè
