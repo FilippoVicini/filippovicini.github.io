@@ -1,7 +1,6 @@
 ---
 title: "Mathematical investigation on path planning algorithms "
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Investigation on path planning alogorithms '
 venue: 'Mathematical investigation on path planning algorithms '
 paperurl: 'http://filippovicini.github.io/files/IA.pdf'
